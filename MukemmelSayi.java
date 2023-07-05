@@ -28,6 +28,7 @@ public class MukemmelSayi {
    }
   }
   if (toplam == sayi) {
+   System.out.println(sayi);
    return true;
   } else {
    return false;
