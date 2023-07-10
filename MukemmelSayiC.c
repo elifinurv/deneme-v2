@@ -30,7 +30,7 @@ int main()
 {
     int sayi;
     int sonuc;
-    printf("Lutfen Bir Sayi Giriniz : ");
+    printf("Lutfen Sayi Giriniz : ");
     scanf("%d",&sayi);
     sonuc=mukemmelSayiMi(sayi);
     if(sonuc==1)
