@@ -1,2 +1,2 @@
-# deneme-v2
-# Bu bir test-deneme reposudur.
+# deneme-v2 
+# Bu bir test denemesi. Helper için deneme
