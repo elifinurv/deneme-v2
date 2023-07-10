@@ -1,4 +1,4 @@
-
+/*Yeni commit için oluşturulan metin*/
 import java.util.Scanner;
 
 public class MukemmelSayi {
