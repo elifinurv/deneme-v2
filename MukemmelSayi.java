@@ -6,6 +6,7 @@ public class MukemmelSayi {
  public static void main(String[] args) {
 
   Scanner cr = new Scanner(System.in);
+  int test;
   
   int sayi;
   System.out.println("Bir sayi giriniz : ");
@@ -28,7 +29,7 @@ public class MukemmelSayi {
    }
   }
   if (toplam == sayi) {
-   System.out.println(sayi);
+   System.out.println(sayi+"sayi degeri");
    return true;
   } else {
    return false;
@@ -36,3 +37,5 @@ public class MukemmelSayi {
  }
 
 }
+
+/*Katkı oranını hesaplama*/
