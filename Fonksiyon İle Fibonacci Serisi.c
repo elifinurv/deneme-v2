@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*Issue linkleme için deneme*/
+
 void fibonacciSerisi(int sayi)
 {
     int ilkSayi=0;
