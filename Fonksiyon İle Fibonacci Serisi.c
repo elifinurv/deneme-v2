@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 /*Issue linkleme için deneme*/
+//testCycle
 
 void fibonacciSerisi(int sayi)
 {
