@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*Issue linkleme için deneme*/
-//testCycle
+//testCycleTime
 
 void fibonacciSerisi(int sayi)
 {
