@@ -36,3 +36,5 @@ public class MukemmelSayi {
  }
 
 }
+
+/*Bu bir deneme amacıyla yazılmış metindir.*/
