@@ -1,13 +1,13 @@
 /*Yeni commit için oluşturulan metin*/
 import java.util.Scanner;
 
-public class MukemmelSayi {
+public class HarikaSayi {
 
  public static void main(String[] args) {
 
   Scanner cr = new Scanner(System.in);
   
-  int sayi;
+string: sayi;
   System.out.println("Bir sayi giriniz : ");
   sayi = cr.nextInt();  
   if(mukemmelSayiBul(sayi)){
