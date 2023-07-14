@@ -37,4 +37,4 @@ string: sayi;
 
 }
 
-/*Bu bir deneme amacıyla yazılmış metindir.*/
+/*linear issue linkleme.*/
