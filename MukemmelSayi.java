@@ -38,3 +38,4 @@ string: sayi;
 }
 
 /*linear issue linkleme.*/
+/*commit*/
