@@ -11,9 +11,9 @@ public class MukemmelSayi {
   System.out.println("Bir sayi giriniz : ");
   sayi = cr.nextInt();  
   if(mukemmelSayiBul(sayi)){
-   System.out.println(sayi+" sayısı mükemmel sayıdır.");
+   System.out.println(sayi+" "+"mükemmel sayi.");
   }else{
-   System.out.println(sayi+" sayısı mükemmel sayı değildir.");
+   System.out.println(sayi+" "+"mükemmel sayı değildir.");
   }
    
   
@@ -21,13 +21,13 @@ public class MukemmelSayi {
  
  public static boolean mukemmelSayiBul(int sayi) {
  
-  int toplam = 0;
+  int count = 0;
   for (int i = 1; i < sayi; i++) {
    if (sayi % i == 0) {
-    toplam += i;
+    count += i;
    }
   }
-  if (toplam == sayi) {
+  if (count == sayi) {
    System.out.println(sayi);
    return true;
   } else {
