@@ -1,3 +1,27 @@
-# deneme-v2
-# elifinurrr adlı developer
-read me edit
+#read me edit
+da
+sdas
+dsa
+dasf
+asf
+asfas
+
+#adasdasda
+dasdasd
+asfas
+fasfas
+fas
+fas
+dasdasfasfas
+fas
+fas
+fas
+fasf
+asf
+as
+f
+as
+fas
+f
+as
+fasfasf
