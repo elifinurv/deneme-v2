@@ -5,7 +5,7 @@ public class HarikaSayi {
 
  public static void main(String[] args) {
 
-  Scanner cr = new Scanner(System.in);
+  int cr;
   
 string: sayi;
   System.out.println("Bir sayi giriniz : ");
