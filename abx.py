@@ -7,7 +7,9 @@ def YılınGünü(Ay,Gün,Yıl):
     days;
     if ArtıkYıl(Yıl):
         günler[1]=29
-    sıra=0
+        x;
+        fonk;
+        
     for a in range(Ay-1):
         sıra+=günler[a]
     sıra+=Gün
