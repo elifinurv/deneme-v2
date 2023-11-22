@@ -23,7 +23,8 @@ string: sayi;
  
   int count = 0;
   for (int i = 1; i < sayi; i++) {
-   saadasd
+  aazaza
+   zazaza
   }
   if (count == sayi) {
    System.out.println(sayi);
