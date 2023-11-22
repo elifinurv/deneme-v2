@@ -1,0 +1,1 @@
+Data processor işinin testi
