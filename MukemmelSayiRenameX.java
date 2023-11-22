@@ -23,9 +23,7 @@ string: sayi;
  
   int count = 0;
   for (int i = 1; i < sayi; i++) {
-   if (sayi % i == 0) {
-    count += i;
-   }
+   saadasd
   }
   if (count == sayi) {
    System.out.println(sayi);
