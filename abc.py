@@ -4,7 +4,7 @@ def ArtıkYıl(yıl):
     return artık
  
 def YılınGünü(Ay,Gün,Yıl):
-    günler=[31,28,31,30,31,30,31,31,30,31,30,31]
+    days;
     if ArtıkYıl(Yıl):
         günler[1]=29
     sıra=0
