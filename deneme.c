@@ -7,10 +7,6 @@ void fibonacciSerisi(int sayi)
     int ilkSayi=0;
     int ikinciSayi=1;
     int toplam=0;
-
-    printf("%d\t",ilkSayi);
-    printf("%d\t",ikinciSayi);
-
     for(int i=0; i<sayi-2; i++)
     {
         toplam=ilkSayi+ikinciSayi;
