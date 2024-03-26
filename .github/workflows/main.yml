@@ -14,11 +14,8 @@ jobs:
       
       - name: Create Release
         id: create_release
-        uses: actions/create-release@v1.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        uses: actions/create-release@v4
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
-          token: ${{secrets.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}}
         
