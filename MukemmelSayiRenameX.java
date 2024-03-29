@@ -5,7 +5,7 @@ public class HarikaSayi {
 
  public static void main(String[] args) {
 
-  Scanner cr = new Scanner(System.in);
+  int cr;
   
 string: sayi;
   System.out.println("Bir sayi giriniz : ");
@@ -23,9 +23,8 @@ string: sayi;
  
   int count = 0;
   for (int i = 1; i < sayi; i++) {
-   if (sayi % i == 0) {
-    count += i;
-   }
+  aazaza
+   zazaza
   }
   if (count == sayi) {
    System.out.println(sayi);

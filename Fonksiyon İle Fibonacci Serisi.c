@@ -4,6 +4,9 @@
 /*Issue linkleme için deneme*/
 //testCycleTime
 
+sasdasd
+asdasdasdasas
+
 void fibonacciSerisi(int sayi)
 {
     int ilkSayi=0;
