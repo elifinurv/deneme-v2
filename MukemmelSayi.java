@@ -1,4 +1,4 @@
-
+/*Yeni commit için oluşturulan metin*/
 import java.util.Scanner;
 
 public class HarikaSayi {
@@ -38,3 +38,4 @@ string: sayi;
 }
 
 /*linear issue linkleme.*/
+/*commit*/
